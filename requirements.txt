@@ -1,1 +1,3 @@
 pandas
+textblob
+nltk
