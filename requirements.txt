@@ -1,7 +1,3 @@
-pandas
-textblob
-nltk
-scikit-learn
 torch
 torchvision
 torchaudio
@@ -14,4 +10,4 @@ altair
 wandb
 spacy
 torchinfo
-
+scikit-learn
