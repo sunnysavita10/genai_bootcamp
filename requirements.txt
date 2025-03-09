@@ -14,3 +14,5 @@ scikit-learn
 langchain-core
 langchain-community
 langchain_groq
+sentence-transformers
+faiss-cpu
