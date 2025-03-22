@@ -21,3 +21,4 @@ langchain_anthropic
 langchain_huggingface
 langchain_openai
 grandalf
+pypdf
