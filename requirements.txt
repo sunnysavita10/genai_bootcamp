@@ -22,3 +22,4 @@ langchain_huggingface
 langchain_openai
 grandalf
 pypdf
+pinecone-client
