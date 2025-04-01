@@ -11,3 +11,14 @@ wandb
 spacy
 torchinfo
 scikit-learn
+langchain-core
+langchain-community
+langchain_groq
+sentence-transformers
+faiss-cpu
+langchain_google_genai 
+langchain_anthropic 
+langchain_huggingface
+langchain_openai
+grandalf
+pypdf
