@@ -23,3 +23,6 @@ langchain_openai
 grandalf
 pypdf
 pinecone-client
+langgraph
+llama-index
+llama-index-embeddings-huggingface
