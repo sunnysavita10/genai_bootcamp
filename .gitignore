@@ -7,3 +7,4 @@ final_transformer_translation_model.pt
 GoogleNews-vectors-negative300.bin.gz
 vdb_latest
 results
+.env

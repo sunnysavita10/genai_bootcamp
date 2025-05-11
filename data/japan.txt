@@ -13,3 +13,20 @@ Year	GDP
 2021	$5,034.62B
 2020	$5,055.59B
 2019	$5,117.99B
+
+As of early 2025, Japan's economy exhibits signs of moderate recovery, with industrial production increasing by 2.3% month-over-month in February, slightly below initial estimates but indicating a rebound from previous contractions. Retail sales have shown consistent growth, rising by 3.9% year-on-year in January, marking the 36th consecutive month of expansion. The Nikkei 225 index has responded positively, reaching levels around 11,740.60 points, with projections suggesting it could climb to 45,400 by the end of 2025. The Japanese yen has experienced fluctuations, strengthening to 104.53 yen against the dollar, reflecting investor optimism. Despite these positive indicators, challenges persist, including concerns over export performance and demographic issues such as an aging population. The Bank of Japan remains cautiously optimistic, noting that while certain economic indicators are encouraging, vigilance is necessary to sustain growth. Overall, Japan's economy appears to be on a path of gradual improvement, balancing recovery efforts with structural reforms to address long-term challenges.
+
+As of mid-2025, Japan's economy is experiencing a nuanced recovery characterized by moderate growth and persistent challenges. In the first quarter, real GDP contracted by 0.1%, influenced by a 1.1% month-over-month decline in industrial production in March, primarily due to the impact of U.S. tariffs on exports. Despite this, retail sales demonstrated resilience, increasing by 2.9% year-over-year in the first quarter, with notable growth in sectors like apparel and household electronics. 
+ING Think
+RTTNews
+
+The Bank of Japan (BOJ) has maintained its short-term interest rate at 0.5%, citing uncertainties stemming from global trade tensions. The BOJ revised its growth projection for the fiscal year ending March 2026 from 1.1% to 0.5%, and for the following year from 1.0% to 0.7%. Inflation is now expected to reach the 2% target around the latter half of fiscal 2026. 
+Reuters
++1
+Reuters
++1
+
+In the financial markets, the Nikkei 225 index has shown strength, with projections suggesting it could reach 45,400 by the end of 2025, supported by corporate share buybacks and a gradual return of foreign investors. The Japanese yen has experienced fluctuations, recently trading at approximately 104.53 against the U.S. dollar, reflecting investor sentiment and monetary policy expectations.
+三井住友DSアセットマネジメント
+
+Overall, while Japan's economy faces headwinds from external trade pressures and domestic structural issues, indicators such as wage growth and consumer spending provide a foundation for cautious optimism. The BOJ's flexible policy stance aims to navigate these challenges, balancing the goals of economic growth and price stability.
